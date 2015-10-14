@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2012\Projects\HarllanYolland\HarllanYolland\bin\Debug\HarllanYolland.exe.config
+c:\users\user\documents\visual studio 2012\Projects\HarllanYolland\HarllanYolland\bin\Debug\HarllanYolland.exe
+c:\users\user\documents\visual studio 2012\Projects\HarllanYolland\HarllanYolland\bin\Debug\HarllanYolland.pdb
+c:\users\user\documents\visual studio 2012\Projects\HarllanYolland\HarllanYolland\bin\Debug\HarllanYolland.xml
+c:\users\user\documents\visual studio 2012\Projects\HarllanYolland\HarllanYolland\obj\Debug\HarllanYolland.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\HarllanYolland\HarllanYolland\obj\Debug\HarllanYolland.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\HarllanYolland\HarllanYolland\obj\Debug\HarllanYolland.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\HarllanYolland\HarllanYolland\obj\Debug\HarllanYolland.exe
+c:\users\user\documents\visual studio 2012\Projects\HarllanYolland\HarllanYolland\obj\Debug\HarllanYolland.xml
+c:\users\user\documents\visual studio 2012\Projects\HarllanYolland\HarllanYolland\obj\Debug\HarllanYolland.pdb
